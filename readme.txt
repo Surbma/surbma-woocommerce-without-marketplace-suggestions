@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: woocommerce, marketplace
 Requires at least: 4.9
 Tested up to: 5.1
-Stable tag: 1.0
+Stable tag: 1.1
 Requires PHP: 5.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -52,16 +52,14 @@ Check my website: [Surbma.com](https://surbma.com/)
 1. Search for the plugin *Surbma | WooCommerce Without Marketplace Suggestions* under "Plugins -> Add New" menu item.
 2. Click on the "Install Now" button in the plugin's box.
 3. After installation, click on the "Activate" button in the same box to activate *Surbma | WooCommerce Without Marketplace Suggestions* plugin.
-4. Under the plugin's settings menu, activate the modules you want to use.
-5. That's all. :)
+4. That's all. :)
 
 ### Manual installation on WordPress admin
 
 1. Download the plugin from here: [Surbma | WooCommerce Without Marketplace Suggestions](https://downloads.wordpress.org/plugin/surbma-woocommerce-without-marketplace-suggestions.zip)
 2. Upload the `surbma-woocommerce-without-marketplace-suggestions.zip` file on the "Plugins -> Add New" page by clicking on the "Upload Plugin" button.
 3. Activate the *Surbma | WooCommerce Without Marketplace Suggestions* plugin after the upload.
-4. Under the plugin's settings menu, activate the modules you want to use.
-5. That's all. :)
+4. That's all. :)
 
 ### Manual installation via FTP
 
@@ -69,8 +67,7 @@ Check my website: [Surbma.com](https://surbma.com/)
 2. Uncompress the zip file on your local computer.
 3. Upload the `surbma-woocommerce-without-marketplace-suggestions` folder into your `/wp-content/plugins/` folder.
 4. Activate the *Surbma | WooCommerce Without Marketplace Suggestions* plugin on the "Plugins" page.
-5. Under the plugin's settings menu, activate the modules you want to use.
-6. That's all. :)
+5. That's all. :)
 
 == Frequently Asked Questions ==
 
@@ -79,6 +76,11 @@ Check my website: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1 =
+
+- Release date: 2019-04-09
+- Minor changes in description.
 
 = 1.0 =
 
