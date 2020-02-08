@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: woocommerce, marketplace
 Requires at least: 5.1
 Tested up to: 5.3
-Stable tag: 2.0
+Stable tag: 2.1
 Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -76,6 +76,12 @@ Check my website: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.1 =
+
+Release date: 2020-01-08
+
+- FIX - Minor fix for the workflow file.
 
 = 2.0 =
 
