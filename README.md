@@ -1,4 +1,4 @@
 Surbma | WooCommerce Without Marketplace Suggestions
 ====================================================
 
-Removes WooCommerce Marketplace Suggestions from admin permanently.
+Remove WooCommerce Marketplace Suggestions from admin permanently.

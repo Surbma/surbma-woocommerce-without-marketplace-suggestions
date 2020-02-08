@@ -1,15 +1,15 @@
 === Surbma | WooCommerce Without Marketplace Suggestions ===
-Contributors: Surbma
+Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: woocommerce, marketplace
-Requires at least: 4.9
-Tested up to: 5.1
-Stable tag: 1.1
-Requires PHP: 5.6
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 2.0
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Removes WooCommerce Marketplace Suggestions from admin permanently.
+Remove WooCommerce Marketplace Suggestions from admin permanently.
 
 == Description ==
 
@@ -76,6 +76,18 @@ Check my website: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-01-08
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
+
+= 1.2 =
+
+- Release date: 2019-04-09
+- Minor changes in description.
 
 = 1.1 =
 

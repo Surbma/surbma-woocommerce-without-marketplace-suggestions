@@ -3,9 +3,9 @@
 /*
 Plugin Name: Surbma | WooCommerce Without Marketplace Suggestions
 Plugin URI: https://surbma.com/wordpress-plugins/
-Description: Removes WooCommerce Marketplace Suggestions from admin permanently.
+Description: Remove WooCommerce Marketplace Suggestions from admin permanently.
 
-Version: 1.1
+Version: 2.0
 
 Author: Surbma
 Author URI: https://surbma.com/
@@ -16,7 +16,7 @@ Text Domain: surbma-woocommerce-without-marketplace-suggestions
 
 WooCommerce options
 WC requires at least: 3.6
-WC tested up to: 3.6
+WC tested up to: 3.9
 */
 
 // Prevent direct access to the plugin.
